@@ -1,0 +1,3 @@
+ARCH=arm make cyanogenmod_i9300_defconfig
+ARCH=arm make menuconfig
+ARCH=arm make
